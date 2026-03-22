@@ -9,7 +9,8 @@ Nguyễn Hữu Cường 2252098
 
 
 ## Code Link
-All the link for the assignment including a google colab page + checkpoints 
+All the link for the assignment including a google colab page + checkpoints. 
+```
 [Text](https://drive.google.com/drive/folders/1fVcvFOH0rGbtCsTHrp9gJz48TwplKw42?usp=sharing)
 
 [Image](https://drive.google.com/drive/folders/1yZoGEyv9Vs2y2ZC4pXMAw8iLXQ13K-jm?usp=sharing)
