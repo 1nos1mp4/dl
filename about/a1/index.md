@@ -1,4 +1,7 @@
 
+---
+layout: none
+---
 # Assignment 1 
 
 ## Member 
