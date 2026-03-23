@@ -25,4 +25,3 @@ All the link for the assignment including a google colab page + checkpoints. <br
 [Multimodal(with extra comparison on freezing strategy)](https://drive.google.com/drive/folders/11g1Pf-tE0ZKuaIhdXaFy5hJPedxhd5TJ?usp=sharing) 
 
 [Extra comparison on Augmentation Strategy](https://drive.google.com/drive/folders/1mCiHInu3wuVqBAkpLDjNqCNc4YM2EJPx?usp=sharing)
-
