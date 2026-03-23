@@ -1,12 +1,5 @@
 # Assignment 1 
 
-## Member 
-Nguyễn Hữu Cường 2252098 
-
-## Lecturer
-
-Dr. THANH-SACH LE
-
 ## Report 
 
 [Report Link](https://docs.google.com/presentation/d/1l0i9cw7UEj3BJpnnl9V2JhhgIXo9BJvOpUCIgqsierM/edit?usp=sharing)
