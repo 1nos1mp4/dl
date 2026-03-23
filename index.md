@@ -1,7 +1,5 @@
 
----
-title: Assignments Page
----
+# Home
 
 The link to all the assignment 
 
