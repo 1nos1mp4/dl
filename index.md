@@ -1,17 +1,16 @@
+# Deep Learning & Applications — Assignment Hub
 
-# Home
+---
 
-## Member 
-Nguyễn Hữu Cường 2252098 
+**Student:** Nguyễn Hữu Cường — `2252098`
 
-## Lecturer
+**Instructor:** Dr. Thanh-Sach Le
 
-Dr. THANH-SACH LE
+---
 
-The link to all the assignment 
+## Assignments
 
-<!-- [View Assigment1](about/a1.md) -->
-
-[View Assigment1](about/a1/)
- 
-[View Assigment2](about/a2/)
+| # | Link |
+|---|------|
+| 1 | [Assignment 1](about/a1/) |
+| 2 | [Assignment 2](about/a2/) | 

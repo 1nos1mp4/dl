@@ -1,20 +1,22 @@
-# Assignment 1 
+# Assignment 1
 
-## Report 
+---
 
-[Report Link](https://docs.google.com/presentation/d/1l0i9cw7UEj3BJpnnl9V2JhhgIXo9BJvOpUCIgqsierM/edit?usp=sharing)
+## Report
 
-## Demo 
+[View Report (Google Slides)](https://docs.google.com/presentation/d/1l0i9cw7UEj3BJpnnl9V2JhhgIXo9BJvOpUCIgqsierM/edit?usp=sharing)
 
-[Demo Link](https://youtu.be/TuJTaRktbJI)
+## Demo
 
+[Watch Demo (YouTube)](https://youtu.be/TuJTaRktbJI)
 
-## Code Link
-All the link for the assignment including a google colab page + checkpoints. <br>
-[Text](https://drive.google.com/drive/folders/1rDWhzNMifZqrAjhHCHl0a_fbHePg04Ty?usp=sharing)
+## Code & Resources
 
-[Image](https://drive.google.com/drive/folders/1yZoGEyv9Vs2y2ZC4pXMAw8iLXQ13K-jm?usp=sharing)
+All notebooks (Google Colab) and model checkpoints are linked below.
 
-[Multimodal(with extra comparison on freezing strategy)](https://drive.google.com/drive/folders/11g1Pf-tE0ZKuaIhdXaFy5hJPedxhd5TJ?usp=sharing) 
-
-[Extra comparison on Augmentation Strategy](https://drive.google.com/drive/folders/1mCiHInu3wuVqBAkpLDjNqCNc4YM2EJPx?usp=sharing)
+| Topic | Link |
+|-------|------|
+| Text | [Google Drive](https://drive.google.com/drive/folders/1rDWhzNMifZqrAjhHCHl0a_fbHePg04Ty?usp=sharing) |
+| Image | [Google Drive](https://drive.google.com/drive/folders/1yZoGEyv9Vs2y2ZC4pXMAw8iLXQ13K-jm?usp=sharing) |
+| Multimodal (+ freezing strategy comparison) | [Google Drive](https://drive.google.com/drive/folders/11g1Pf-tE0ZKuaIhdXaFy5hJPedxhd5TJ?usp=sharing) |
+| Augmentation Strategy Comparison | [Google Drive](https://drive.google.com/drive/folders/1mCiHInu3wuVqBAkpLDjNqCNc4YM2EJPx?usp=sharing) |
